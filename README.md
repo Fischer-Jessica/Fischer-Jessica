@@ -17,7 +17,47 @@
 ### 🗄️ Databases & Markup  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
+## 🐟 My Projects
+
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td align="center" width="33%">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="https://github.com/Fischer-Jessica/earwyrm-pipeline" target="_blank" style="text-align: center;">
+          <img src="https://raw.githubusercontent.com/Fischer-Jessica/earwyrm-pipeline/main/assets/logo.png" alt="Earwyrm Pipeline Logo" width="120" style="display: block; margin: 0 auto 10px;" />
+          <div><strong>Earwyrm Pipeline</strong></div>
+        </a>
+        <p style="min-height: 110px; margin-top: 0.5em; margin-bottom: 0;">
+          A Python script that processes an EPUB file and uses the Picovoice Orca TTS engine to read it aloud, saving the result as a single MP3 file.
+        </p>
+      </div>
+    </td>
+    <td align="center" width="33%">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="https://github.com/Fischer-Jessica/DA-SecureFinanceManager-Web-202324-public" target="_blank" style="text-align: center;">
+          <img src="https://raw.githubusercontent.com/Fischer-Jessica/DA-SecureFinanceManager-Web-202324-public/secure_finance_manager/src/assets/logos/Logo_with_background.png" alt="Secure Finance Manager Web Logo" width="120" style="display: block; margin: 0 auto 10px;" />
+          <div><strong>Secure Finance Manager (Web)</strong></div>
+        </a>
+        <p style="min-height: 110px; margin-top: 0.5em; margin-bottom: 0;">
+          My diploma thesis: An Angular-based frontend application designed for managing user finances.
+        </p>
+      </div>
+    </td>
+    <td align="center" width="33%">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="https://github.com/Fischer-Jessica/DA-SecureFinanceManager-Backend-202324-public" target="_blank" style="text-align: center;">
+          <img src="https://raw.githubusercontent.com/Fischer-Jessica/DA-SecureFinanceManager-Web-202324-public/secure_finance_manager/src/assets/logos/Logo_with_background.png" alt="Secure Finance Manager Backend Logo" width="120" style="display: block; margin: 0 auto 10px;" />
+          <div><strong>Secure Finance Manager (Backend)</strong></div>
+        </a>
+        <p style="min-height: 110px; margin-top: 0.5em; margin-bottom: 0;">
+          My diploma thesis: A Java-based backend application designed for managing user finances.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fischer-Jessica&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fischer-Jessica&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- The first version of the README was created with [GPRM](https://gprm.itsvg.in) -->
