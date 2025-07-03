@@ -17,8 +17,13 @@
 ### 🗄️ Databases & Markup  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-## 🐟 My Projects
+## 📊 GitHub Stats
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fischer-Jessica&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 36%; height: auto; display: block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fischer-Jessica&rank_icon=github&theme=dracula&hide_border=true&show_icons=true&hide=contribs,prs" style="width: 62%; height: auto; display: block;" />
+</div>
 
+## 🐟 My Projects
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
@@ -56,8 +61,5 @@
     </td>
   </tr>
 </table>
-
-## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fischer-Jessica&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- The first version of the README was created with [GPRM](https://gprm.itsvg.in) -->
