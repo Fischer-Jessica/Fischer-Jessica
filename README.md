@@ -3,11 +3,11 @@
 ![Header](./github-header-image.png)
 
 # 👩‍💻 About Me
-💼 **Junior Frontend Developer**<br>
-🛠️ In my free time, I build projects like an **audiobook generator**, a **todo app**, and a **reading tracker**.<br>
-📚 Avid **fantasy reader**.<br>
-🏍️ Enthusiast of **motorcycles and cars**.<br>
-🐉 Also: **dragons. Always dragons.**
+💼 I am working as a **Junior Frontend Developer**.<br>
+🛠️ In my free time I build projects I want to use and to keep my fullstack skills sharp. For example an **audiobook generator**, a **todo app** and a **reading tracker**.<br>
+📚 I am an avid **fantasy reader**.<br>
+🏍️ I am an enthusiast of **motorcycles and cars**. Fuel and oil run through my veins.<br>
+🐉 Also: **dragons. *Always* dragons.**
 
 ## 🧰 Tech Stack
 ### 🖥️ Programming & Frameworks  
