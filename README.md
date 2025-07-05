@@ -2,7 +2,7 @@
 <!-- The Octocat used in this banner was created with [myOctocat](https://myoctocat.com) -->
 ![Header](./github-header-image.png)
 
-# 👩‍💻 About Me
+# 👩🏼‍💻 About Me
 💼 I am working as a **Junior Frontend Developer**.<br>
 🛠️ In my free time I build projects I want to use and to keep my fullstack skills sharp. For example an **audiobook generator**, a **todo app** and a **reading tracker**.<br>
 📚 I am an avid **fantasy reader**.<br>
