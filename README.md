@@ -2,7 +2,10 @@
 <!-- The Octocat used in this banner was created with [myOctocat](https://myoctocat.com) -->
 ![Header](./assets/github-header.png)
 
-# 👩🏼‍💻 About Me
+<h1>
+  <img src="./assets/logo_Fischer-fish.png" alt="personal logo" width="66" style="vertical-align: middle; margin-right: 10px;" />
+  About Me
+</h1>
 💼 I am working as a **Junior Frontend Developer**.<br>
 🛠️ In my free time I build projects I want to use and to keep my fullstack skills sharp. For example an **audiobook generator**, a **todo app** and a **reading tracker**.<br>
 📚 I am an avid **fantasy reader**.<br>
@@ -29,7 +32,7 @@
     <td align="center" width="33%">
       <div style="display: flex; flex-direction: column; align-items: center;">
         <a href="https://github.com/Fischer-Jessica/earwyrm-pipeline" target="_blank" style="text-align: center;">
-          <img src="https://raw.githubusercontent.com/Fischer-Jessica/earwyrm-pipeline/main/assets/logo.png" alt="Earwyrm Pipeline Logo" width="120" style="display: block; margin: 0 auto 10px;" />
+          <img src="https://raw.githubusercontent.com/Fischer-Jessica/earwyrm-pipeline/main/assets/logo_earwyrm-pipeline.png" alt="Earwyrm Pipeline Logo" width="120" style="display: block; margin: 0 auto 10px;" />
           <div><strong>Earwyrm Pipeline</strong></div>
         </a>
         <p style="min-height: 110px; margin-top: 0.5em; margin-bottom: 0;">
