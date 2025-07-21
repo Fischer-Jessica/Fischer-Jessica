@@ -22,8 +22,8 @@
 
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fischer-Jessica&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 36%; height: auto; display: block;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Fischer-Jessica&rank_icon=github&theme=dracula&hide_border=true&show_icons=true&hide=contribs,prs" style="width: 62%; height: auto; display: block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fischer-Jessica&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 36%; height: auto; display: block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fischer-Jessica&rank_icon=github&theme=catppuccin_mocha&hide_border=true&show_icons=true&hide=contribs,prs" style="width: 62%; height: auto; display: block;" />
 </div>
 
 ## 🐟 My Projects
