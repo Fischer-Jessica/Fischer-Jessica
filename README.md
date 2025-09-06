@@ -6,11 +6,12 @@
   <img src="./assets/logo_Fischer-fish.png" alt="personal logo" width="66" style="vertical-align: middle; margin-right: 10px;" />
   About Me
 </h1>
-💼 I am working as a **Junior Frontend Developer**.<br>
-🛠️ In my free time I build projects I want to use and to keep my fullstack skills sharp. For example an **audiobook generator**, a **todo app** and a **reading tracker**.<br>
-📚 I am an avid **fantasy reader**.<br>
-🏍️ I am an enthusiast of **motorcycles and cars**. Fuel and oil run through my veins.<br>
-🐉 Also: **dragons. *Always* dragons.**
+
+💼 I am working as a **Junior Frontend Developer**.  
+🛠️ In my free time I build projects I want to use and to keep my fullstack skills sharp. For example an **audiobook generator**, a **todo app** and a **reading tracker**.  
+📚 I am an avid **fantasy reader**.  
+🏍️ I am an enthusiast of **motorcycles and cars**. Fuel and oil run through my veins.  
+🐉 Also: **Dragons. *Always* dragons.**  
 
 ## 🧰 Tech Stack
 ### 🖥️ Programming & Frameworks  
