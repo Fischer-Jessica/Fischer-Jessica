@@ -3,7 +3,7 @@
 ![Header](./assets/github-header.png)
 
 <h1>
-  <img src="./assets/logo_Fischer-fish.png" alt="personal logo" width="66" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="./assets/Fischer-Fish.png" alt="personal logo" width="66" style="vertical-align: middle; margin-right: 10px;" />
   About Me
 </h1>
 
