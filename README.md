@@ -33,7 +33,7 @@
     <td align="center" width="33%">
       <div style="display: flex; flex-direction: column; align-items: center;">
         <a href="https://github.com/Fischer-Jessica/earwyrm-pipeline" target="_blank" style="text-align: center;">
-          <img src="https://raw.githubusercontent.com/Fischer-Jessica/earwyrm-pipeline/main/assets/logo_earwyrm-pipeline.png" alt="Earwyrm Pipeline Logo" width="120" style="display: block; margin: 0 auto 10px;" />
+          <img src="https://raw.githubusercontent.com/Fischer-Jessica/earwyrm-pipeline/main/assets/Earwyrm-Pipeline.png" alt="Earwyrm Pipeline Logo" width="120" style="display: block; margin: 0 auto 10px;" />
           <div><strong>Earwyrm Pipeline</strong></div>
         </a>
         <p style="min-height: 110px; margin-top: 0.5em; margin-bottom: 0;">
